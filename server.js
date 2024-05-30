@@ -70,6 +70,3 @@ app.delete('/users/:id', async (req, res) => {
 })
 
 app.listen(3000)
-
-//wedson
-//2zmQFrMnqdKwpQ3a
